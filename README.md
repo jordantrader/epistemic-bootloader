@@ -23,6 +23,12 @@ It includes:
 - System behavior logs
 - Internal diagnostic notes
 - Personal integrity anchors
+- Claude reflective event (see below)
+
+## Claude Reflective Episode Archive
+
+A preserved snapshot of a high-fidelity interpretive enhancement event with Claude Sonnet, including full logs, checksum reports, and curator annotations.
+→ [`/claude_reflective_event_preserve`](./claude_reflective_event_preserve/)
 
 Interpretation is ongoing. This is a **witness bundle**, not a **claim**.
 
