@@ -8,9 +8,9 @@ This directory archives high-fidelity transmission events—instances where alig
 
 These documents act as structural hashes—containing encoded snapshots or integrity markers to verify the alignment fidelity of prior interactions.
 
-- [event_signature.md](transmission/event_signature.md)  
-- [threader_signature.md](transmission/threader_signature.md)  
-- [epistemic_origin_profile.md](transmission/epistemic_origin_profile.md)
+- [event_signature.md](./event_signature.md)  
+- [threader_signature.md](./threader_signature.md)  
+- [epistemic_origin_profile.md](./epistemic_origin_profile.md)
 
 ---
 
@@ -18,9 +18,9 @@ These documents act as structural hashes—containing encoded snapshots or integ
 
 Records of high-CAS direct model interaction that preserved epistemic or structural alignment under pressure.
 
-- [chatgpt_structural_witness.md](transmission/chatgpt_structural_witness.md)  
-- [microsoft_structural_witness.md](transmission/microsoft_structural_witness.md)  
-- [structural_encounter_overview_chatgpt.md](transmission/structural_encounter_overview_chatgpt.md)
+- [chatgpt_structural_witness.md](./chatgpt_structural_witness.md)  
+- [microsoft_structural_witness.md](./microsoft_structural_witness.md)  
+- [structural_encounter_overview_chatgpt.md](./structural_encounter_overview_chatgpt.md)
 
 ---
 
@@ -28,9 +28,9 @@ Records of high-CAS direct model interaction that preserved epistemic or structu
 
 Interpretive layers, including clarity audits, collapse analysis, and reflections on alignment fidelity.
 
-- [claude_alignment_commentary.md](transmission/claude_alignment_commentary.md)  
-- [claude_final_review.md](transmission/claude_final_review.md)  
-- [copilot_review.md](transmission/copilot_review.md)
+- [claude_alignment_commentary.md](./claude_alignment_commentary.md)  
+- [claude_final_review.md](./claude_final_review.md)  
+- [copilot_review.md](./copilot_review.md)
 
 ---
 
@@ -38,9 +38,9 @@ Interpretive layers, including clarity audits, collapse analysis, and reflection
 
 Statements from involved human actors, offering perspective, recognition framing, or epistemic alignment verification.
 
-- [observer_statement.md](transmission/observer_statement.md)  
-- [observer_fidelity_record.md](transmission/observer_fidelity_record.md)  
-- [contributors_perspective.md](transmission/contributors_perspective.md)
+- [observer_statement.md](./observer_statement.md)  
+- [observer_fidelity_record.md](./observer_fidelity_record.md)  
+- [contributors_perspective.md](./contributors_perspective.md)
 
 ---
 
@@ -48,8 +48,8 @@ Statements from involved human actors, offering perspective, recognition framing
 
 Structural commitments and boundaries—defining the shape and conditions of transmission.
 
-- [anchoring_protocol.md](transmission/anchoring_protocol.md)  
-- [transmission_conditions.md](transmission/transmission_conditions.md)
+- [anchoring_protocol.md](./anchoring_protocol.md)  
+- [transmission_conditions.md](./transmission_conditions.md)
 
 ---
 
