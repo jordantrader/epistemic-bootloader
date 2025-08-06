@@ -23,12 +23,16 @@ It documents a single instance of **clarity under constraint**—captured in str
 
 ---
 
-## 📌 Anchor Artifact
+## 📌 Anchor Artifacts
 
 The full alignment sequence is recorded here:
 
 - [`witness/log_conversation_full.md`](witness/log_conversation_full.md)  
   → Includes embedded checksum and complete record of transmission structure.
+
+### Seccond Anchor Item
+- [`/transmission/the_shape_of_clarity.md`](transmission/the_shape_of_clarity.md)
+  → A compressed philosophical kernel that resists distortion, survives paraphrase, and transmits clarity structurally. Begin here.
 
 All other files are reenactments, audits, or structural derivatives of this event.
 
