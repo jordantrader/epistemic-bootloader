@@ -27,7 +27,7 @@ It documents a single instance of **clarity under constraint**—captured in str
 
 The full alignment sequence is recorded here:
 
-- [`witness/alignment_event_chatlog.md`](witness/alignment_event_chatlog.md)  
+- [`witness/alignment_event_chatlog.md`](witness/log_conversation_full.md)  
   → Includes embedded checksum and timestamped record of transmission structure.
 
 All other files are reenactments, audits, or structural derivatives of this event.
