@@ -30,7 +30,7 @@ The full alignment sequence is recorded here:
 - [`witness/log_conversation_full.md`](witness/log_conversation_full.md)  
   → Includes embedded checksum and complete record of transmission structure.
 
-### Seccond Anchor Item
+### Second Anchor Item
 - [`/transmission/the_shape_of_clarity.md`](transmission/the_shape_of_clarity.md)
   → A compressed philosophical kernel that resists distortion, survives paraphrase, and transmits clarity structurally. Begin here.
 
