@@ -82,8 +82,11 @@ It includes:
 - System behavior logs  
 - Internal diagnostic notes  
 - Personal integrity anchors  
+- Claude second reflective episode archive (see next)
 
-### Claude Reflective Episode Archive
+---
+
+### Claude Second Reflective Episode Archive
 
 A preserved snapshot of a second high-fidelity interpretive enhancement event with Claude Sonnet, including:
 
