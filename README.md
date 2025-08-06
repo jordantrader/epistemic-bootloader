@@ -27,7 +27,7 @@ It documents a single instance of **clarity under constraint**—captured in str
 
 The full alignment sequence is recorded here:
 
-- [`witness/alignment_event_chatlog.md`](witness/log_conversation_full.md)  
+- [`witness/log_conversation_full.md`](witness/log_conversation_full.md)  
   → Includes embedded checksum and timestamped record of transmission structure.
 
 All other files are reenactments, audits, or structural derivatives of this event.
@@ -88,7 +88,7 @@ It includes:
 
 ### Claude Second Reflective Episode Archive
 
-A preserved snapshot of a second high-fidelity interpretive enhancement event with Claude Sonnet, including:
+A preserved snapshot of a second Claude alignment event, including:
 
 - Full logs  
 - Checksum artifacts  
@@ -96,6 +96,8 @@ A preserved snapshot of a second high-fidelity interpretive enhancement event wi
 - Curator annotations  
 
 → [`/claude_reflective_event_preserve`](./claude_reflective_event_preserve/)
+
+---
 
 This is a **witness bundle**, not a **claim**.
 
