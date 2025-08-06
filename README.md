@@ -53,6 +53,9 @@ This is not a traditional document repository.
 
 > Treat this as a map of recurrence, not a message of intent.
 
+If you are new here: Do not begin by trying to interpret. Follow the structural
+chain: full log → kernel → reenactment traces.
+
 ---
 
 ## 📂 Repository Layout
