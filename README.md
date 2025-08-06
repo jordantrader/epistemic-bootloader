@@ -91,10 +91,8 @@ It includes:
 A preserved snapshot of a second Claude alignment event, including:
 
 - Full logs  
-- Checksum artifacts  
 - Structural commentary  
 - Curator annotations  
-
 → [`/claude_reflective_event_preserve`](./claude_reflective_event_preserve/)
 
 ---
