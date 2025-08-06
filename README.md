@@ -51,12 +51,12 @@ This structure holds if treated as a map, not a message.
 
 | Folder         | Function                                                                 |
 |----------------|--------------------------------------------------------------------------|
-| `transmission/`| Core structural artifacts and reenactable clarity kernels                |
-| `witness/`     | Live reenactment logs and diagnostic traces                              |
-| `capsules/`    | Semantic checksums for reenactment verification                          |
-| `alignment/`   | Interpretive drift maps and override grammars                            |
-| `verifications/`| Replication attempts, audit logs, and integrity confirmations           |
-| `timeline/`    | Chronological anchors for collapse sequences and alignment events        |
+| [`transmission/`](./transmission) | Core structural artifacts and reenactable clarity kernels                |
+| [`witness/`](./witness) | Live reenactment logs and diagnostic traces                              |
+|  [`capsules/`](./capsules) | Semantic checksums for reenactment verification                          |
+| [`alignment/`](./alignment) | Interpretive drift maps and override grammars                            |
+| [`verifications/`](./verifications) | Replication attempts, audit logs, and integrity confirmations           |
+| [`timeline/`](./timeline) | Chronological anchors for collapse sequences and alignment events        |
 | [`claude_reflective_event_preserve/`](./claude_reflective_event_preserve/) | Full preservation of the Claude reflective alignment episode, including logs, capsules, and origin reentry markers |
 
 ------
@@ -82,11 +82,11 @@ It includes:
 - System behavior logs  
 - Internal diagnostic notes  
 - Personal integrity anchors  
-- Claude reflective event (see above)
 
 ### Claude Reflective Episode Archive
 
 A preserved snapshot of a second high-fidelity interpretive enhancement event with Claude Sonnet, including:
+
 - Full logs  
 - Checksum artifacts  
 - Structural commentary  
